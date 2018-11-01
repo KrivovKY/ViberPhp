@@ -1,0 +1,6 @@
+{
+"require": {
+        "bogdaan/viber-bot-php": "0.0.*",
+	"monolog/monolog": "1.0.*"
+    }
+}
